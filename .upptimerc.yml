@@ -1,31 +1,136 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ilger00 # Your GitHub organization or username, where this repository lives
+repo: Uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Ilger
+    url: $ILG_COM
 
+  - name: MTA1
+    check: "tcp-ping"
+    url: $MTA1
+    port: 25
+
+  - name: MTA2
+    check: "tcp-ping"
+    url: $MTA2
+    port: 25
+
+  - name: MTA3
+    check: "tcp-ping"
+    url: $MTA3
+    port: 25
+  
+  - name: MTA4
+    check: "tcp-ping"
+    url: $MTA4
+    port: 25
+    
+  - name: MTA5
+    check: "tcp-ping"
+    url: $MTA5
+    port: 25
+  
+  - name: MTA6
+    check: "tcp-ping"
+    url: $MTA6
+    port: 25
+    
+  - name: MTA7
+    check: "tcp-ping"
+    url: $MTA7
+    port: 25
+  
+  - name: MTA8
+    check: "tcp-ping"
+    url: $MTA8
+    port: 25
+
+  - name: PRX1
+    url: $PRX1
+
+  - name: PRX2
+    url: $PRX2
+
+  - name: PRX3
+    url: $PRX3
+
+  - name: PRX4
+    url: $PRX4
+
+  - name: NEWS02_BIBLIO
+    url: $NEWS02_BIBLIO
+
+  - name: MX8
+    check: "tcp-ping"
+    url: $MX8
+    port: 25
+  
+  - name: MX9
+    check: "tcp-ping"
+    url: $MX9
+    port: 25
+          
+  - name: MX10
+    check: "tcp-ping"
+    url: $MX10
+    port: 25
+  
+  - name: MX11
+    check: "tcp-ping"
+    url: $MX11
+    port: 25
+    
+  - name: MX12
+    check: "tcp-ping"
+    url: $MX12
+    port: 25
+  
+  - name: PRX_Z_1
+    url: $PRX_Z_1
+
+  - name: PRX_Z_2
+    url: $PRX_Z_2
+
+  - name: PRX_Z_3
+    url: $PRX_Z_3
+
+  - name: PRX_Z_4
+    url: $PRX_Z_4
+
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  name: ilger
+  logoUrl: https://www.ilger.com/wp-content/uploads/2021/11/ILGER-logo.png
+  baseUrl: /Uptime
+  icon: https://www.ilger.com/wp-content/uploads/2022/03/ilger-logo-favicon.png
+  introTitle: "Page - 1"
+  introMessage: Servers Status with **real-time** data
+
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Page1
+      href: /Uptime
+    - title: Page2
+      href: https://ilger01.github.io/Uptime/
+    - title: Page3
+      href: https://ilger02.github.io/Uptime/
+    - title: Page4
+      href: https://ilger03.github.io/Uptime/
+    - title: Page5
+      href: https://ilger04.github.io/Uptime/
+    - title: Page6
+      href: https://ilger05.github.io/Uptime/  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
