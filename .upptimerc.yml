@@ -110,6 +110,7 @@ status-website:
   introTitle: "Page - 1"
   introMessage: Servers Status with **real-time** data
 
+
   navbar:
     - title: Page1
       href: /Uptime
