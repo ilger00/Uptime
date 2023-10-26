@@ -44,38 +44,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-2",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 290,
     "timeWeek": 248,
     "timeMonth": 242,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2023-10-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MTA3",
     "url": "$MTA3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 203,
+    "timeDay": 212,
     "timeWeek": 222,
     "timeMonth": 227,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 9
     }
   },
   {
