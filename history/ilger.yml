@@ -1,7 +1,7 @@
 url: $ILG_COM
-status: down
-code: 500
-responseTime: 1367
-lastUpdated: 2023-10-26T05:17:39.099Z
+status: up
+code: 200
+responseTime: 2247
+lastUpdated: 2023-10-26T05:28:10.757Z
 startTime: 2023-08-24T11:19:29.610Z
 generator: Upptime <https://github.com/upptime/upptime>
