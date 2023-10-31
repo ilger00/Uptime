@@ -134,19 +134,19 @@
     "url": "$MTA7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-7",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 238,
-    "timeDay": 229,
-    "timeWeek": 234,
-    "timeMonth": 229,
+    "timeDay": 218,
+    "timeWeek": 230,
+    "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 10
     }
   },
   {
