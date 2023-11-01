@@ -141,7 +141,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 271,
+    "timeDay": 335,
     "timeWeek": 240,
     "timeMonth": 231,
     "timeYear": 239,
@@ -242,9 +242,9 @@
     "url": "$NEWS02_BIBLIO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "news-02-biblio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +253,9 @@
     "timeWeek": 1281,
     "timeMonth": 1251,
     "timeYear": 1283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "MX8",
