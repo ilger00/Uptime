@@ -196,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 911,
     "timeDay": 660,
-    "timeWeek": 798,
+    "timeWeek": 776,
     "timeMonth": 893,
     "timeYear": 911,
     "dailyMinutesDown": {}
@@ -280,19 +280,19 @@
     "url": "$MX9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-9",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 243,
-    "timeWeek": 245,
-    "timeMonth": 243,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 251,
+    "timeDay": 213,
+    "timeWeek": 237,
+    "timeMonth": 241,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-11-03": 0
+      "2023-11-03": 17
     }
   },
   {
@@ -318,9 +318,9 @@
     "url": "$MX11",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-11",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -329,7 +329,9 @@
     "timeWeek": 234,
     "timeMonth": 220,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "MX12",
