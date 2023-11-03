@@ -178,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 810,
     "timeDay": 658,
-    "timeWeek": 798,
+    "timeWeek": 815,
     "timeMonth": 798,
     "timeYear": 810,
     "dailyMinutesDown": {}
@@ -214,7 +214,7 @@
     "uptimeYear": "100.00%",
     "time": 799,
     "timeDay": 641,
-    "timeWeek": 781,
+    "timeWeek": 791,
     "timeMonth": 794,
     "timeYear": 799,
     "dailyMinutesDown": {}
@@ -280,9 +280,9 @@
     "url": "$MX9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -291,7 +291,9 @@
     "timeWeek": 245,
     "timeMonth": 243,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "MX10",
