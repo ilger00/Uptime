@@ -242,18 +242,19 @@
     "url": "$NEWS02_BIBLIO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "news-02-biblio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1281,
     "timeDay": 1422,
-    "timeWeek": 1257,
+    "timeWeek": 1244,
     "timeMonth": 1249,
     "timeYear": 1281,
     "dailyMinutesDown": {
+      "2023-11-08": 0,
       "2023-11-01": 15
     }
   },
@@ -382,7 +383,7 @@
     "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 1030,
-    "timeWeek": 776,
+    "timeWeek": 770,
     "timeMonth": 807,
     "timeYear": 813,
     "dailyMinutesDown": {}
@@ -418,7 +419,7 @@
     "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 1136,
-    "timeWeek": 956,
+    "timeWeek": 960,
     "timeMonth": 982,
     "timeYear": 1024,
     "dailyMinutesDown": {}
