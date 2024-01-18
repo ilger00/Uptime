@@ -26,19 +26,19 @@
     "url": "$MTA1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 221,
-    "timeDay": 167,
-    "timeWeek": 124,
-    "timeMonth": 124,
+    "timeDay": 168,
+    "timeWeek": 130,
+    "timeMonth": 126,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 39
     }
   },
   {
