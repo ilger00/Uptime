@@ -29,7 +29,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 216,
@@ -384,19 +384,19 @@
     "url": "$PRX_Z_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 976,
-    "timeWeek": 754,
-    "timeMonth": 821,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 845,
+    "timeDay": 828,
+    "timeWeek": 745,
+    "timeMonth": 817,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2024-01-25": 0
+      "2024-01-25": 15
     }
   },
   {
@@ -422,19 +422,19 @@
     "url": "$PRX_Z_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1189,
-    "timeWeek": 919,
-    "timeMonth": 987,
-    "timeYear": 1012,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1011,
+    "timeDay": 1017,
+    "timeWeek": 910,
+    "timeMonth": 982,
+    "timeYear": 1011,
     "dailyMinutesDown": {
-      "2024-01-25": 0
+      "2024-01-25": 15
     }
   }
 ]
