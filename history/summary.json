@@ -29,7 +29,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 216,
@@ -384,9 +384,9 @@
     "url": "$PRX_Z_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -395,7 +395,9 @@
     "timeWeek": 754,
     "timeMonth": 821,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   },
   {
     "name": "PRX_Z_3",
@@ -420,9 +422,9 @@
     "url": "$PRX_Z_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -431,6 +433,8 @@
     "timeWeek": 919,
     "timeMonth": 987,
     "timeYear": 1012,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   }
 ]
