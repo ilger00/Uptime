@@ -385,19 +385,19 @@
     "url": "$PRX_Z_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 709,
-    "timeWeek": 938,
-    "timeMonth": 816,
-    "timeYear": 841,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
+    "time": 840,
+    "timeDay": 687,
+    "timeWeek": 904,
+    "timeMonth": 810,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2024-03-04": 1
+      "2024-03-04": 55
     }
   },
   {
@@ -423,19 +423,19 @@
     "url": "$PRX_Z_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 1006,
-    "timeDay": 805,
-    "timeWeek": 1053,
-    "timeMonth": 978,
+    "timeDay": 879,
+    "timeWeek": 1040,
+    "timeMonth": 977,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2024-03-04": 0
+      "2024-03-04": 55
     }
   }
 ]
