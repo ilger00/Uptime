@@ -143,19 +143,19 @@
     "url": "$MTA7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-7",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 170,
-    "timeWeek": 117,
-    "timeMonth": 128,
+    "timeDay": 147,
+    "timeWeek": 118,
+    "timeMonth": 127,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-03-18": 0
+      "2024-03-18": 9
     }
   },
   {
@@ -163,9 +163,9 @@
     "url": "$MTA8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-8",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,7 +174,9 @@
     "timeWeek": 117,
     "timeMonth": 127,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   },
   {
     "name": "PRX1",
