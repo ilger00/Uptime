@@ -49,37 +49,35 @@
     "slug": "mta-2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 149,
     "timeWeek": 119,
     "timeMonth": 128,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2024-03-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MTA3",
     "url": "$MTA3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-3",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 169,
-    "timeWeek": 118,
-    "timeMonth": 128,
+    "timeDay": 138,
+    "timeWeek": 117,
+    "timeMonth": 127,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-03-18": 0,
+      "2024-03-18": 9,
       "2024-01-19": 20
     }
   },
@@ -88,9 +86,9 @@
     "url": "$MTA4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +97,9 @@
     "timeWeek": 118,
     "timeMonth": 128,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   },
   {
     "name": "MTA5",
