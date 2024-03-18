@@ -143,9 +143,9 @@
     "url": "$MTA7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-7",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,7 +154,9 @@
     "timeWeek": 117,
     "timeMonth": 128,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   },
   {
     "name": "MTA8",
