@@ -27,19 +27,19 @@
     "url": "$MTA1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 194,
-    "timeDay": 170,
-    "timeWeek": 118,
-    "timeMonth": 128,
+    "timeDay": 137,
+    "timeWeek": 116,
+    "timeMonth": 127,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-03-18": 0,
+      "2024-03-18": 9,
       "2024-01-18": 39
     }
   },
@@ -48,9 +48,9 @@
     "url": "$MTA2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +59,9 @@
     "timeWeek": 118,
     "timeMonth": 128,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   },
   {
     "name": "MTA3",
