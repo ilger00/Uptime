@@ -67,9 +67,9 @@
     "slug": "mta-3",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
     "timeDay": 138,
@@ -77,7 +77,6 @@
     "timeMonth": 127,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-03-18": 9,
       "2024-01-19": 20
     }
   },
@@ -86,19 +85,19 @@
     "url": "$MTA4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 171,
-    "timeWeek": 118,
-    "timeMonth": 128,
+    "timeDay": 163,
+    "timeWeek": 123,
+    "timeMonth": 129,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-03-18": 0
+      "2024-03-18": 19
     }
   },
   {
