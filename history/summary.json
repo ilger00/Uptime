@@ -353,19 +353,19 @@
     "url": "$MX12",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-12",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 104,
+    "time": 180,
+    "timeDay": 119,
     "timeWeek": 132,
     "timeMonth": 132,
-    "timeYear": 181,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-03-21": 1
+      "2024-03-21": 10
     }
   },
   {
