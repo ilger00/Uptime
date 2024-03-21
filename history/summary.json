@@ -353,10 +353,10 @@
     "url": "$MX12",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-12",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
@@ -364,7 +364,9 @@
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 1
+    }
   },
   {
     "name": "PRX_Z_1",
