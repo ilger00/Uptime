@@ -49,9 +49,9 @@
     "url": "$MTA2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -61,6 +61,7 @@
     "timeMonth": 134,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-03-27": 179
     }
   },
@@ -407,7 +408,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 835,
-    "timeDay": 778,
+    "timeDay": 815,
     "timeWeek": 895,
     "timeMonth": 874,
     "timeYear": 835,
@@ -448,7 +449,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1054,
-    "timeDay": 929,
+    "timeDay": 792,
     "timeWeek": 1110,
     "timeMonth": 1189,
     "timeYear": 1054,
