@@ -444,10 +444,10 @@
     "url": "$PRX_Z_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1054,
@@ -456,6 +456,7 @@
     "timeMonth": 1051,
     "timeYear": 1054,
     "dailyMinutesDown": {
+      "2024-06-18": 1,
       "2024-03-27": 152
     }
   },
