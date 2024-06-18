@@ -1,7 +1,7 @@
 url: $PRX_Z_1
-status: down
-code: 500
-responseTime: 669
-lastUpdated: 2024-06-18T04:10:17.098Z
+status: up
+code: 200
+responseTime: 1013
+lastUpdated: 2024-06-18T04:29:04.088Z
 startTime: 2023-08-24T11:19:57.806Z
 generator: Upptime <https://github.com/upptime/upptime>
