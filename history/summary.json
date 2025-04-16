@@ -218,10 +218,10 @@
     "url": "$PRX2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 812,
@@ -230,6 +230,7 @@
     "timeMonth": 833,
     "timeYear": 811,
     "dailyMinutesDown": {
+      "2025-04-16": 1,
       "2024-11-28": 29,
       "2024-08-13": 923,
       "2024-08-12": 138
